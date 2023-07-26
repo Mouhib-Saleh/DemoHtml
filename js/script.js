@@ -12,15 +12,15 @@ const btn2 = document.querySelector('.btn2S')
 
 var photoid = 0 ;
 var ph=[ {
-  "url":"https://t4.ftcdn.net/jpg/04/95/28/65/360_F_495286577_rpsT2Shmr6g81hOhGXALhxWOfx1vOQBa.jpg",
+  "url":"public/assets/bg1.jpg",
   "title":"Site1"
 },
 {
-  "url":"https://static.vecteezy.com/system/resources/previews/011/262/951/non_2x/abstract-banner-design-with-green-geometric-background-green-banner-background-vector.jpg",
+  "url":"public/assets/bg2.jpg",
   "title":"Site2"
 },
 {
-  "url":"https://w0.peakpx.com/wallpaper/538/156/HD-wallpaper-abstract-geometric-purple-modern-stylish-smooth-dark-banner-background-2202920-vector-art-at-vecteezy.jpg",
+  "url":"public/assets/bg3.jpg",
   "title":"Site3"
 }
 ]

@@ -99,6 +99,12 @@ nav li:hover{
     border-radius: 5px;
     
 }
+#fit {
+    margin-top: 20%;
+}
+#lit{
+    margin-bottom: 20%;
+}
 button{
     background-color: #0e848800;
     border: 1px solid white;
@@ -250,7 +256,7 @@ body{
     height: 2px;
     background-color: #CBE4DE;
 }
-@media screen and (max-width: 420px){
+@media screen and (max-width: 490px){
     .burger{
         display: flex;
     }
@@ -261,10 +267,10 @@ body{
         display: block;
     }
     #fit {
-        margin-top: 10px;
+        margin-top: 10%;
     }
     #lit{
-        margin-bottom: 10px;
+        margin-bottom: 10%;
     }
    nav.active .burger span:nth-child(1) {
         transform: translateY(8px) rotate(45deg);
