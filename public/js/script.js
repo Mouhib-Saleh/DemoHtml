@@ -12,15 +12,15 @@ const btn2 = document.querySelector('.btn2S')
 
 var photoid = 0 ;
 var ph=[ {
-  "url":"public/assets/bg1.jpg",
+  "url":"assets/bg1.jpg",
   "title":"Site1"
 },
 {
-  "url":"public/assets/bg2.jpg",
+  "url":"assets/bg2.jpg",
   "title":"Site2"
 },
 {
-  "url":"public/assets/bg3.jpg",
+  "url":"assets/bg3.jpg",
   "title":"Site3"
 }
 ]
